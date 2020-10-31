@@ -55,7 +55,7 @@ You can add a named calculation to a table in a data source view. In the followi
   
 3.  In the Properties window on the right side of the screen, click the **NameColumn** property field at the bottom of the window, and then click the browse (**...**) button to open the **Name Column** dialog box. (You might need to click the **Properties** tab on the right side of the screen to open the Properties window.  
   
-4.  Select **ProductLineName** at the bottom of the **Source column** list, and then click **OK**.  
+    Select **ProductLineName** at the bottom of the **Source column** list, and then click **OK**.  
   
     The NameColumn field now contains the text, **Product.ProductLineName (WChar)**. The members of the **Product Line** attribute hierarchy now display the full name of the product line instead of an abbreviated product line name.  
   
